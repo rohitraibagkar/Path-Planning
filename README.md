@@ -3,7 +3,11 @@ The robotics project for path planning with D* and PRM Algorithms to avoid obsta
 
 # Files in the repo::
 
-* `PathPlanning.m`
+- `PathPlanning.m`
+- README.md
+- Report Project Assignment 3.pdf
+- `project3pathplan.fig`
+- `project3pathplan.m`
 
 `PathPlanning.m` is a class defined for data structures and processes.
 
