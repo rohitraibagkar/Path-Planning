@@ -26,3 +26,6 @@ defined in method `prmAlgo` function, from line `523` to `600`
 
 Process to generate and draw 2D trajectory without interpolation is defined in method `NoInterPol` function,
 from line `268` to line `287`
+
+Process to generate and draw 2D trajectory using multi-axes trajectory with quintic polynomial (5th order polynomial) interpolation is
+defined in method `quinticTpoly` function, from line `289` to line `316`
