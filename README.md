@@ -32,3 +32,6 @@ defined in method `quinticTpoly` function, from line `289` to line `316`
 
 Process to generate and draw 2D trajectory using multi-axes trajectory with parabolic blend interpolation is
 defined in method `parabolicBlend` function, from line `318` to line `345`
+
+Process to generate and draw 2D trajectory using linear segments with parabolic interpolation is
+defined in method `onlyLspb` function, from line `347` to line `374`
