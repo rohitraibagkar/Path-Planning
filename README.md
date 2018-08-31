@@ -29,3 +29,6 @@ from line `268` to line `287`
 
 Process to generate and draw 2D trajectory using multi-axes trajectory with quintic polynomial (5th order polynomial) interpolation is
 defined in method `quinticTpoly` function, from line `289` to line `316`
+
+Process to generate and draw 2D trajectory using multi-axes trajectory with parabolic blend interpolation is
+defined in method `parabolicBlend` function, from line `318` to line `345`
