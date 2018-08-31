@@ -35,3 +35,6 @@ defined in method `parabolicBlend` function, from line `318` to line `345`
 
 Process to generate and draw 2D trajectory using linear segments with parabolic interpolation is
 defined in method `onlyLspb` function, from line `347` to line `374`
+
+Process to generate and draw 2D trajectory using quintic polynomial (5th order polynomial) interpolation is
+defined in method `onlyTpoly` function, from line `376` to line `403`
