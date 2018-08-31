@@ -38,3 +38,5 @@ defined in method `onlyLspb` function, from line `347` to line `374`
 
 Process to generate and draw 2D trajectory using quintic polynomial (5th order polynomial) interpolation is
 defined in method `onlyTpoly` function, from line `376` to line `403`
+
+Process to generate and draw 2D trajectory using spline interpolation is defined in method `onlySpline` function, from line `405` to line `432`
