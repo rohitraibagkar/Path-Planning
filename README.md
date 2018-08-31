@@ -11,7 +11,7 @@ The robotics project for path planning with D* and PRM Algorithms to avoid obsta
 
 
 
-### `PathPlanning.m`
+## `PathPlanning.m`
 
 `PathPlanning.m` is a class defined for data and processes.
 
